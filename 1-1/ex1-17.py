@@ -1,0 +1,6 @@
+num1 = int(input(''))
+num2 = int(input(''))
+num3 = float(input(''))
+print((2*num1)*(num2/2))
+print((3 * num1) + num3)
+print(3**3)
