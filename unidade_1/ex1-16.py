@@ -1,5 +1,5 @@
 nome = input('qual seu nome: ')
 salario = float(input('qual seu salario fixo? '))
 vendas = int(input('vendas realizadas no mês (em dinheiro): '))
-total = salario + (vendas * 1.15)
+total = salario + (vendas * 0.15)
 print(f'{nome} o seu salário fixo é {salario}, e com as comissões adicionadas você irá ganhar {total}')
