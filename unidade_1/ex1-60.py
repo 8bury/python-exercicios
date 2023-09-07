@@ -9,4 +9,4 @@ while cont < numero:
 if divisiveis == 0:
     print('O número é primo')
 else:
-    print('O número não é primo')
+    print('O número não é primo') 
